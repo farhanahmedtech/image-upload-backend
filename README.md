@@ -1,22 +1,23 @@
-Image Upload API (Node.js, Multer, Cloudinary)
-📌 Project Overview
+# Image Upload API (Node.js, Multer, Cloudinary)
 
-This is a backend API built with Node.js and Express that allows users to upload images.
-Images are handled using Multer and stored on Cloudinary for cloud storage.
+## 📌 Project Overview
 
-The API accepts an image from the client and uploads it to Cloudinary, returning the image URL.
+### This is a backend API built with Node.js and Express that allows users to upload images.
+### Images are handled using Multer and stored on Cloudinary for cloud storage.
 
-🚀 Features
+### The API accepts an image from the client and uploads it to Cloudinary, returning the image URL.
 
-Upload images using API
+## 🚀 Features
 
-Multer middleware for handling file uploads
+### Upload images using API
 
-Cloudinary cloud storage integration
+### Multer middleware for handling file uploads
 
-Clean backend structure (Routes, Controllers, Utils)
+### Cloudinary cloud storage integration
 
-Error handling
+#### Clean backend structure (Routes, Controllers, Utils)
 
-Environment variables for security
+### Error handling
+
+### Environment variables for security
 
